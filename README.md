@@ -58,4 +58,6 @@ The dashboard enables dynamic filtering and insight generation across occasions,
 - Analytical Thinking
 - Excel Reporting
 
-- By Priyanshu Mittal
+ ---
+
+## By Priyanshu Mittal
