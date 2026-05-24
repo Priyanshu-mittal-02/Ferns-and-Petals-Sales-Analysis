@@ -46,7 +46,7 @@ The dashboard enables dynamic filtering and insight generation across occasions,
 ---
 
 ## Dashboard Preview
-(Add dashboard image here)
+![Dashboard Preview]()
 
 ---
 
