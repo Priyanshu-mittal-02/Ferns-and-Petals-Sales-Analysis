@@ -46,7 +46,7 @@ The dashboard enables dynamic filtering and insight generation across occasions,
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](https://github.com/Priyanshu-mittal-02/Ferns-and-Petals-Sales-Analysis/blob/c3ee75ecb69844d53b03931d3bfbb30904863cca/dashboard.jpg)
 
 ---
 
