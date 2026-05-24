@@ -55,7 +55,7 @@ The dashboard enables dynamic filtering and insight generation across occasions,
 - Dashboard Development
 - Business Intelligence
 - Data Visualization
-
-- By Priyanshu Mittal
 - Analytical Thinking
 - Excel Reporting
+
+- By Priyanshu Mittal
